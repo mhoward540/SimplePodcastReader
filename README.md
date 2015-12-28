@@ -6,6 +6,7 @@ Paste the URL to the Podcast XML feed when prompted.  After validation, the link
 
 # Issues & Concerns
 -Only handles mp3 files at this point.
+
 -Media is downloaded all in the same folder, which means that there may be name conflicts between files.
 
 # Future Feature Plans
